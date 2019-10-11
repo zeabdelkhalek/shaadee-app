@@ -1,149 +1,153 @@
-/*!
- * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
- */
 * {
-  font-family: 'SailecMedium';
-  font-size: .925rem ;
-
+	font-family: 'SailecMedium';
+	font-size: .925rem;
 }
 
 .bold {
-  font-family: 'SailecBold';
+	font-family: 'SailecBold';
 }
 
 .medium {
-  font-family: 'SailecMedium';
+	font-family: 'SailecMedium';
 }
 
 .logo {
-  width : 80px;
+	width: 80px;
 }
+
 body {
-  background-image: url('../images/header-background.png');
-  background-position: top;
-  background-size: contain;
-  background-repeat: no-repeat;
+	background-image: url('../images/header-background.png');
+	background-position: top;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
+
 header.app-header {
-    padding-top: 40px;}
+	padding-top: 40px;
+}
 
 section.register-form {
-  /* padding: 150px 0; */
-  background-color: #ffffff;
-  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.1);
+	background-color: #ffffff;
+	box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.1);
 }
+
 .radius {
-  border-radius: 2px 2px 2px 2px;
+	border-radius: 2px 2px 2px 2px;
 }
+
 .primary-pink {
-  color : #FA396F ;
+	color: #FA396F;
 }
+
 .primary-dark {
-  color : #22242A ;
+	color: #22242A;
 }
+
 .primary-gray {
-  color : #8D92A3 ;
+	color: #8D92A3;
 }
 
 .primary-white {
-  color : #ffffff ;
+	color: #ffffff;
 }
 
 .bg-gray {
-  background-color: #F1F3F8;
+	background-color: #F1F3F8;
 }
 
 .bg-white {
-  background-color: #ffffff;
+	background-color: #ffffff;
 }
 
 .btn-pink {
-  background-color: #FA396F;
-  color : #ffffff ;
+	background-color: #FA396F;
+	color: #ffffff;
 }
-.btn-pink:hover {
-  background-color: #c90e43;
-  color : #ffffff ;
 
+.btn-pink:hover {
+	background-color: #c90e43;
+	color: #ffffff;
 }
 
 .btn-gray {
-  background-color: #F1F3F8;
+	background-color: #F1F3F8;
 }
-.btn-gray:hover {
-  background-color: #c8c9cc;
 
+.btn-gray:hover {
+	background-color: #c8c9cc;
 }
 
 .form-control {
-  font-size : .925rem ;
+	font-size: .925rem;
 }
 
 .sub-title {
-  font-size : 1rem ; 
+	font-size: 1rem;
 }
+
 .title {
-  font-size : 1.2rem ; 
+	font-size: 1.2rem;
 }
 
 .play-store-badge {
-  width : 70% ;
+	width: 70%;
 }
 
 .icon-img {
-  width : 60% ;
+	width: 60%;
 }
 
 .icon-img-mini {
-  width : 25% ;
+	width: 25%;
 }
 
 .card {
-  -webkit-backdrop-filter: blur(30px);
-  backdrop-filter: blur(30px);
-  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.16);
-  border : none ;
+	-webkit-backdrop-filter: blur(30px);
+	backdrop-filter: blur(30px);
+	box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.16);
+	border: none;
 }
+
 .square-card {
-  width: 120px;
-  height: 120px;
+	width: 40vw;
+	height: 40vw;
 }
+
 .block-card-border {
-  border-radius: 4px;
-  border: solid 1px #f1f3f8;
+	border-radius: 4px;
+	border: solid 1px #f1f3f8;
 }
 
 .block-card {
-  border-radius: 4px;
+	border-radius: 4px;
 }
+
 .bg-img {
-  background-image : url('../images/bg.png') , linear-gradient(to bottom, #22242a, rgba(0, 0, 0, 0.33));;
-  /* background-size: cover;
-  background-attachment: fixed;
-  background-repeat: no-repeat; */
+	background-image: url('../images/bg.png'), linear-gradient(to bottom, #22242a, rgba(0, 0, 0, 0.33));
+	;
 }
 
 .btn {
-  font-size: 1rem;
+	font-size: 1rem;
 }
 
 .video {
-  position: relative;
-  transform: translate(0 , 4rem);
-  z-index: 9;
+	position: relative;
+	transform: translate(0, 4rem);
+	z-index: 9;
 }
 
 select.form-control {
-  background-color: #FAFAFA;
-  color : #8D92A3 ;
+	background-color: #FAFAFA;
+	color: #8D92A3;
 }
+
 .search {
-  background-color: #FAFAFA;
-  color : #8D92A3 ;
+	background-color: #FAFAFA;
+	color: #8D92A3;
 }
+
 .search {
-  background-color: #FAFAFA;
-  color : #8D92A3 ;
+	background-color: #FAFAFA;
+	color: #8D92A3;
 }
