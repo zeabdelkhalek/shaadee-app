@@ -126,5 +126,24 @@ section.register-form {
 }
 
 .btn {
-  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+.video {
+  position: relative;
+  transform: translate(0 , 4rem);
+  z-index: 9;
+}
+
+select.form-control {
+  background-color: #FAFAFA;
+  color : #8D92A3 ;
+}
+.search {
+  background-color: #FAFAFA;
+  color : #8D92A3 ;
+}
+.search {
+  background-color: #FAFAFA;
+  color : #8D92A3 ;
 }
