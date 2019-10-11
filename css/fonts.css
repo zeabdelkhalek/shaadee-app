@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'SailecBold';
-    src: url('/fonts/Sailec\ Bold.ttf') format('truetype');
+    src: url('../fonts/Sailec\ Bold.ttf') format('truetype');
 } 
 @font-face {
     font-family: 'SailecLight';
-    src: url('/fonts/Sailec\ Light.ttf') format('truetype');
+    src: url('../fonts/Sailec\ Light.ttf') format('truetype');
 } 
 @font-face {
     font-family: 'SailecMedium';
-    src: url('/fonts/Sailec\ Medium.ttf') format('truetype');
+    src: url('../fonts/Sailec\ Medium.ttf') format('truetype');
 } 
 @font-face {
     font-family: 'SailecThin';
-    src: url('/fonts/Sailec\ Thin.ttf') format('truetype');
+    src: url('../fonts/Sailec\ Thin.ttf') format('truetype');
 } 

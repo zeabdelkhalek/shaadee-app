@@ -21,7 +21,7 @@
   width : 80px;
 }
 body {
-  background-image: url('./images/header-background.png');
+  background-image: url('../images/header-background.png');
   background-position: top;
   background-size: contain;
   background-repeat: no-repeat;
@@ -119,7 +119,7 @@ section.register-form {
   border-radius: 4px;
 }
 .bg-img {
-  background-image : url('./images/bg.png') , linear-gradient(to bottom, #22242a, rgba(0, 0, 0, 0.33));;
+  background-image : url('../images/bg.png') , linear-gradient(to bottom, #22242a, rgba(0, 0, 0, 0.33));;
   /* background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat; */
